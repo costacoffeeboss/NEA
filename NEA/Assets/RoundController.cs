@@ -25,7 +25,7 @@ public class RoundController : MonoBehaviour
     
     int GetZombieCountFromRoundNumber(int rNumber)
     {
-        int zNumber = 5 * rNumber;
+        int zNumber = 55 * rNumber;
         return zNumber;
     }
 

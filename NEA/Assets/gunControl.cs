@@ -2,7 +2,7 @@
 
 public class gunControl : MonoBehaviour
 {
-    public int damage = 1000;
+    public int damage = 50;
     public int range = 100;
 
     public Camera fpsCam;
